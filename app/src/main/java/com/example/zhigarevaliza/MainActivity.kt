@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
     }
 
 @Composable
-fun Greeting(name: String, modifier: Modifier = Modifier) {
+fun Greeting(name String, modifier: Modifier = Modifier) {
     Surface(color = Color.Magenta) {
         Text(
             text = "Hi, my name is Жигарєва Єлизавета",
